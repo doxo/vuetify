@@ -21,3 +21,5 @@ cypress/videos
 
 .vercel
 .now
+
+.npmrc

@@ -20,6 +20,7 @@ import type { RtlOptions } from '@/composables/rtl'
 import type { ThemeOptions } from '@/composables/theme'
 
 export * from './composables'
+export * from './iconsets/mdi'
 
 export interface VuetifyOptions {
   aliases?: Record<string, any>
