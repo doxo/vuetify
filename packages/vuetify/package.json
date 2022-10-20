@@ -1,7 +1,7 @@
 {
   "name": "vuetify",
   "description": "Vue Material Component Framework",
-  "version": "3.0.0-beta.10",
+  "version": "3.0.0-beta.10b",
   "author": {
     "name": "John Leider",
     "email": "john@vuetifyjs.com"
@@ -178,7 +178,7 @@
     }
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "vetur": {
     "tags": "dist/json/tags.json",
